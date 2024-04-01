@@ -1,0 +1,10 @@
+kubectl get sa -n kube-system 
+    4  kubectl get sa -n kube-system  azure-cloud-provider
+    5  kubectl get secret -n kube-system
+    6  kubectl get secret -n kube-system bootstrap-token-eqx8u9
+    7  kubectl get secret -n kube-system bootstrap-token-eqx8u9 -o yaml
+    8  cd /home/bipeen/.kube/
+    9  ls
+   10  cat config 
+   11  cd ..
+   12  history
